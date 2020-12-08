@@ -14,7 +14,7 @@ The page is live at [https://aathanas.github.io](https://aathanas.github.io).
 1. Diploma students are maintained in [_students_diploma](https://github.com/aathanas/aathanas.github.io/tree/master/_students_diploma).
 1. Teaching information is maintained in [_teaching](https://github.com/aathanas/aathanas.github.io/tree/master/_teaching).
 
-### Markdown Cheat Sheet
+### Jekyll Markdown Quick Reference
 
 [https://gist.github.com/roachhd/779fa77e9b90fe945b0c](https://gist.github.com/roachhd/779fa77e9b90fe945b0c)
 
