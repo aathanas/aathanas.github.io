@@ -1,4 +1,4 @@
-# Gerassimos Athanassoulis Homepage
+# Agissilaos Athanassoulis Homepage
 
 The page is live at [https://gerassimos.athanassoulis.net](https://gerassimos.athanassoulis.net).
 
