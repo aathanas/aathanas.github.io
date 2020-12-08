@@ -2,7 +2,7 @@
 
 The page is live at [https://aathanas.github.io](https://aathanas.github.io).
 
-## Which files to change to update Gerassimos' info?
+## Which files to change to update Agis' info?
 
 ### Pages
 1. Main page: click [_pages/about.md](https://github.com/aathanas/aathanas.github.io/edit/master/_pages/about.md) to edit the homepage.
