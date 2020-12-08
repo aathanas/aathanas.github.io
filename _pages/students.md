@@ -13,8 +13,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+{% comment %}
 ## Selected Diploma and M.Sc. Students
 
 {% for post in site.students_diploma reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endcomment %}
