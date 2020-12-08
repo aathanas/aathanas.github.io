@@ -14,6 +14,10 @@ The page is live at [https://aathanas.github.io](https://aathanas.github.io).
 1. Diploma students are maintained in [_students_diploma](https://github.com/aathanas/aathanas.github.io/tree/master/_students_diploma).
 1. Teaching information is maintained in [_teaching](https://github.com/aathanas/aathanas.github.io/tree/master/_teaching).
 
+### Markdown Cheat Sheet
+
+[https://gist.github.com/roachhd/779fa77e9b90fe945b0c](https://gist.github.com/roachhd/779fa77e9b90fe945b0c)
+
 ## Disclaimers and other information
 
 This page is a fork from https://academicpages.github.io/, a Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
