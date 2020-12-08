@@ -7,6 +7,7 @@ The page is live at [https://aathanas.github.io](https://aathanas.github.io).
 ### Pages
 1. Main page: click [_pages/about.md](https://github.com/aathanas/aathanas.github.io/edit/master/_pages/about.md) to edit the homepage.
 1. Short CV information is maintained in [_pages/cv.md](https://github.com/aathanas/aathanas.github.io/blob/master/_pages/cv.md).
+1. Change navigation menu by editing [_data/navigation.yml](https://github.com/aathanas/aathanas.github.io/blob/master/_data/navigation.yml).
 
 ### Collections
 1. Publications are maintained in [_publications](https://github.com/aathanas/aathanas.github.io/tree/master/_publications).
