@@ -5,7 +5,7 @@ The page is live at [https://aathanas.github.io](https://aathanas.github.io).
 ## Which files to change to update Agis' info?
 
 ### Pages
-1. Main page: click [_pages/about.md](../../edit/master/_pages/about.md) to edit the homepage.
+1. Main page: click [_pages/about.html](../../edit/master/_pages/about.html) to edit the homepage.
 1. Short CV information is maintained in [_pages/cv.md](../master/_pages/cv.md).
 1. Change navigation menu by editing [_data/navigation.yml](../master/_data/navigation.yml).
 
