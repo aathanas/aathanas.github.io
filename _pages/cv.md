@@ -11,23 +11,19 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
-* 1984-2020: Professor of Naval Architecture and Marine Engineering, National Technical University of Athens, Greece
-  * Full Professor: 1997-2020
-  * Associate Professor: 1992-1997
-  * Assistant Professor: 1987-1992
-  * Lecturer: 1984-1987
-* 2017: Visiting Researcher, University of Melbourne, Australia
-* 2013-2016: Research Professor, ITMO University, Russia
-* 2004: Visiting Researcher at the Centre for Ships and Ocean Structures, NTNU, Norway
-* 1990-1995: Researcher at the Institute of Computational and Applied Mathematics, FORTH, Greece
+* 01/2017 - now: Lecturer at the University of Dundee, UK
+* 10/2013 - 12/2016: Lecturer at the University of Leicester, UK
+* 11/2012 - 09/2013: Postdoctoral Associate at ACMAC, University of Crete, Greece
+* 10/2011 - 10/2012: Military service (mandatory)
+* 03/2011 - 09/2011: Research Associate at the DAMTP, University of Cambridge, UK 
+* 03/2010 - 02/2011: Postdoc at the CMLS, École polytechnique, France
+* 11/2008 - 02/2010: Postdoc at the DMA, École Normale Superieure, France
+* 11/2007 - 10/2008: ERCIM "Alain Bensoussan" fellowship 
 
 ## Education
-* Ph.D. in Naval and Marine Hydrodynamics, National Technical University of Athens, 1982
-* Diploma in Naval Architecture and Marine Engineering, National Technical University of Athens, 1977
+* PhD in Applied and Computational Mathematics, Princeton University, 2007
+  * Thesis: "Smoothed Wigner transforms and homogenization of wave propagation"
+  * Advisor: Prof. Ingrid Daubechies 
+* Master in Applied and Computational Mathematics, Princeton University, 2005
+* Bachelor in Mathematics, University of Athens, Greece, 2003
 
-## Selected service and leadership
-* 2019-2020: Director of the graduate program &quot;Naval and Marine Technology&quot;, NTUA, Greece 
-* 2016-2020: Graduate program committee member, &quot;Applied Mathematical Sciences&quot;, NTUA, Greece 
-* 2000-2020: Graduate program committee member, &quot;Mathematical Modeling in New Technologies and Finance&quot;, NTUA, Greece 
-* 1999-2018: Graduate program committee member, &quot;Naval and Marine Technology&quot;, NTUA, Greece 
-* 2005-2007: Dean of School of Naval Architecture and Marine Engineering, NTUA, Greece
