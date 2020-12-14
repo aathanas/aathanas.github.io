@@ -1,12 +1,12 @@
 ---
-title: "Ship Dynamics."
+title: "Title."
 collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/spring-2020
-venue: "National Technical University of Athens, Greece"
+venue: "University of Dundee, GB"
 year: "2020"
 semester: "Spring"
 location: #"City, Country"
-comment: "Taught since 1986."
+comment: "Comment"
 ---
 
