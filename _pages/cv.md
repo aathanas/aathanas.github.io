@@ -11,10 +11,10 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
-* 01/2017 - now: Lecturer at the University of Dundee, UK
-* 10/2013 - 12/2016: Lecturer at the University of Leicester, UK
-* 11/2012 - 09/2013: Postdoctoral Associate at ACMAC, University of Crete, Greece
-* 10/2011 - 10/2012: Military service (mandatory)
+* 2017 - now: Lecturer / Senior Lecturer at the University of Dundee
+* 2013 - 2016: Lecturer at the University of Leicester
+
+## Postdoc positions
 * 03/2011 - 09/2011: Research Associate at the DAMTP, University of Cambridge, UK 
 * 03/2010 - 02/2011: Postdoc at the CMLS, École Polytechnique, France
 * 11/2007 - 02/2010: Postdoc at the DMA, École Normale Superieure, France
